@@ -5,6 +5,8 @@
 - C/C++,
 - JAVA,
 - PYTHON,
+- KOTLIN
+- MATLAB
 - VBA &
 - ETC.
 
