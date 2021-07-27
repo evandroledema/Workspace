@@ -1,0 +1,11 @@
+ExemploCollections/Gato.java
+ ExemploCollections.Gato
+ExemploCollections/ComparatorIdade.java
+ ExemploCollections.ComparatorIdade
+ExemploCollections/ComparatorCor.java
+ ExemploCollections.ComparatorCor
+ExemploCollections/CollectionsExample.java
+ ExemploCollections.CollectionsExample
+ ExemploCollections.CollectionsExample$1
+ExemploCollections/ComparatorNomeCorIdade.java
+ ExemploCollections.ComparatorNomeCorIdade
