@@ -1,0 +1,8 @@
+Serie.java
+ Serie
+CollectionSet.java
+ CollectionSet
+ CollectionSet$1
+ CollectionSet$2
+ComparetoNomeGeneroDuracao.java
+ ComparetoNomeGeneroDuracao
