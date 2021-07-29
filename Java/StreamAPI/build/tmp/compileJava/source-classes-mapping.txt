@@ -1,7 +1,13 @@
-Agenda.java
- Agenda
+ComparatorOrdemNomeContato.java
+ ComparatorOrdemNomeContato
+ComparatorOrdemNumero.java
+ ComparatorOrdemNumero
 StreamAPI.java
  StreamAPI
  StreamAPI$1
  StreamAPI$2
  StreamAPI$3
+Agenda.java
+ Agenda
+StreamAPI2.java
+ StreamAPI2
